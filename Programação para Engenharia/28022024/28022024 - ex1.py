@@ -1,0 +1,5 @@
+print('Digite 3 números:')
+a = float(input())
+b = float(input())
+c = float(input())
+print('A soma dos 3 números é: %i' %(a + b + c))
